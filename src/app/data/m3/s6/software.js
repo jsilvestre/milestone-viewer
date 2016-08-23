@@ -36,6 +36,7 @@ export default [
             { label: 'Préparation / Etude', status: 'done' },
             { label: 'Interface', status: 'done' },
             { label: 'Fichiers', status: 'done' },
+            { label: 'Visualiseur', status: 'doing'},
             { label: 'Packaging', status: 'doing' },
             { label: 'Service', status: 'dropped' },
             { label: 'Contacts', status: 'dropped' },
